@@ -64,4 +64,8 @@ dimwishlist:item=294129361&perks=1482024992,3230963543,1583705720,4049631843
 
 // The Title - [TwistYaWig's S15] (PvP): (pvp)
 //notes: [TwistYaWig S15] (PvP): [MW: Range] "Link to article https://knowtheroll.com/pvp-god-roll-the-title/"|tags:pvp
-dimwishlist:item=294129361&perks=1482024992,1359896290,588594999
+dimwishlist:item=294129361&perks=1482024992,1885400500,1359896290,588594999
+
+// The Title - [TwistYaWig's S15] (PvP): (pvp)
+//notes: [TwistYaWig S15] (PvP): [MW: Range] "DVK Force"|tags:pvp
+dimwishlist:item=294129361&perks=1467527085,679225683,1359896290,588594999
